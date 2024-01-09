@@ -26,7 +26,7 @@ const prompt = ChatPromptTemplate.fromMessages([
 const chain = prompt.pipe(model);
 
 const response = await chain.invoke({
-  word: "dog",
+  word: "chicken",
 });
 
 console.log(response);
