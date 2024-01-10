@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "@langchain/openai": "^0.0.10",
+    "cheerio": "^1.0.0-rc.12",
     "dotenv": "^16.3.1",
     "langchain": "^0.1.1",
     "nodemon": "^3.0.2",
